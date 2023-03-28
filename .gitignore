@@ -1,2 +1,5 @@
 train_images/
 train_label/
+square_train_images/
+labeled_train_images/
+labeled_square_train_images/
